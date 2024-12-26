@@ -1,0 +1,10 @@
+altgraph==0.17.4
+APScheduler==3.11.0
+packaging==24.2
+pefile==2023.2.7
+pillow==11.0.0
+pyinstaller==6.11.1
+pyinstaller-hooks-contrib==2024.10
+pywin32-ctypes==0.2.3
+tzdata==2024.2
+tzlocal==5.2
